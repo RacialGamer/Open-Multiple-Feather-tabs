@@ -1,7 +1,7 @@
 # Open-Multiple-Feather-Lunar-tabs
 Ever been frustated you cannot open multiple feather/lunar tabs? Well here is how to do it.
 Step 1
-Download [Named Link](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer "Process Explorer")
+Download [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer "Process Explorer")
 Step 2
 Extract the zip file and run "procexp.exe"
 Step 3

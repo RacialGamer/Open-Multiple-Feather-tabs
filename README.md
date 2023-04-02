@@ -16,3 +16,5 @@ Past the command line, then go to file > Save As. Make the file name "runmc.bat"
 ![picture alt](https://github.com/RacialGamer/Open-Multiple-Feather-Lunar-tabs/blob/main/png/Find%20file.png?raw=true "Save As")
 #### Step 7 ####
 Navigate to your .minecraft folder and run "runmc.bat". You can do it as much times as you want and it will still work.
+## Credits
+https://toydotgame.github.io/pages/tutorials/instantMinecraft.html

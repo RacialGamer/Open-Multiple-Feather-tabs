@@ -16,5 +16,8 @@ Past the command line, then go to file > Save As. Make the file name "runmc.bat"
 ![picture alt](https://github.com/RacialGamer/Open-Multiple-Feather-Lunar-tabs/blob/main/png/Find%20file.png?raw=true "Save As")
 #### Step 7 ####
 Navigate to your .minecraft folder and run "runmc.bat". You can do it as much times as you want and it will still work.
+# Addons
+### Shortcut ###
+Right-click on your desktop and click on new > shortcut. Then navigate to runmc.bat and select it. Now you have a fast shortcut for opening Lunar/Feather
 ## Credits
 https://toydotgame.github.io/pages/tutorials/instantMinecraft.html

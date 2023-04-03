@@ -1,0 +1,7 @@
+REM Title: MC AutoStartup
+Rem Desc: Makes Minecraft start up on launch with a Rubber Ducky.
+Rem Author: RacialGamer
+Rem Target: Windows
+DELAY 1000
+GUI r
+STRING C:\Users\User\appdata\roaming\.minecraft\runmc.bat

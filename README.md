@@ -1,11 +1,11 @@
 # Open-Multiple-Feather-Lunar-tabs
-Ever been frustated you cannot open multiple feather/lunar tabs? Well here is how to do it.
+Ever been frustated you cannot open multiple feather tabs? Well here is how to do it.
 #### Step 1 ####
 Download [Process Explorer](https://learn.microsoft.com/en-us/sysinternals/downloads/process-explorer "Process Explorer")
 #### Step 2 ####
 Extract the zip file and run "procexp.exe"
 #### Step 3 ####
-Run feather/lunar and keep it open while you look for its process. Type in javaw as shown in the picture below.
+Run feather and keep it open while you look for its process. Type in javaw as shown in the picture below.
 ![picture alt](https://github.com/RacialGamer/Open-Multiple-Feather-Lunar-tabs/blob/main/png/Find%20file.png?raw=true "Type in javaw")
 #### Step 4 ####
 Right-click "javaw.exe" and click on properties. Then look for the contents of the "Command line:" box and copy those.
